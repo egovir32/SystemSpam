@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: System Spam (Spam Filter)
+## Version: 1.0
+## Author: egovir
+## Notes: Filters the words form system channel.
+## SavedVariables: SSDB
+SystemSpam.lua
